@@ -1,0 +1,6 @@
+{
+  "name": "S&A Global Agro Exporter",
+  "description": "Leading processor and exporter of premium Indian Basmati and Non-Basmati rice. Features mill-to-port export documentation, USD/EUR exchange rates, and live PI & CI generation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
